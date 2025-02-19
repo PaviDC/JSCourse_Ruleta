@@ -1,0 +1,1 @@
+document.body.innerHTML = "Toto je Javascript pro úkol Ruleta";

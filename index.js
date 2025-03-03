@@ -10,7 +10,7 @@ Vytvořte stránku, které uživatel zadá číslo a stránka odpoví jestli jde
 /* table with numbers categorized by color and whether they are odd or even:
 
 const numberVyber1 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]; //sudá černá, lichá červená
-const numberVyber2 = [11, 12, 13, 14, 15, 16, 17, 18, 29, 30, 31, 32, 33, 34, 35, 36]; // sudá černá, lichá červená10
+const numberVyber2 = [11, 12, 13, 14, 15, 16, 17, 18, 29, 30, 31, 32, 33, 34, 35, 36]; // sudá černá, lichá červená
 */
 
 const rouletteNumber = Number(prompt('Zadej celé číslo v rozmezí od 0 do 36:'));
